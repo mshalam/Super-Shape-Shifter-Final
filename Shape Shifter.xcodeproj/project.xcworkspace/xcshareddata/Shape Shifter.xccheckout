@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8F602F6-9C2F-41E7-960E-DF02DC8916FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Shape Shifter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>089621993713799C2EE2FDCA08077DBCEEA9566C</key>
+		<string>https://github.com/loriahpope/Super-Shape-Shifter.git</string>
+		<key>6545DAEA9F5F7731361B0FD045215DBDF7E1FD95</key>
+		<string>https://github.com/mshalam/Super-Shape-Shifter-master.git</string>
+		<key>8112CDEF9C2C9D130BC9A8DBB6330493E4DD6E4E</key>
+		<string>https://github.com/mshalam/Shape_Shifter-Tuseday-dec-9.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Shape Shifter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>089621993713799C2EE2FDCA08077DBCEEA9566C</key>
+		<string>../..</string>
+		<key>6545DAEA9F5F7731361B0FD045215DBDF7E1FD95</key>
+		<string>../../../Super-Shape-Shifter-master</string>
+		<key>8112CDEF9C2C9D130BC9A8DBB6330493E4DD6E4E</key>
+		<string>../../../Shape_Shifter-Tuseday-dec-9</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/loriahpope/Super-Shape-Shifter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>089621993713799C2EE2FDCA08077DBCEEA9566C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8112CDEF9C2C9D130BC9A8DBB6330493E4DD6E4E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Shape_Shifter-Tuseday-dec-9</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>089621993713799C2EE2FDCA08077DBCEEA9566C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Shape%20Shifter%2012_18</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6545DAEA9F5F7731361B0FD045215DBDF7E1FD95</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Super-Shape-Shifter-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
