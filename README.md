@@ -1,5 +1,5 @@
 # Super-Shape-Shifter-Final
-¬¬Author(s): Loriah Pope, Maurice Shalam, and Raffi Shen
+Author(s): Loriah Pope, Maurice Shalam, and Raffi Shen
 
 Project title: SUPER SHAPE SHIFTER
 
